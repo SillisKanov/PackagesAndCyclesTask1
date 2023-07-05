@@ -1,3 +1,5 @@
+package ru.netology.services;
+
 public class Service {
 
     private int balance = 0;
